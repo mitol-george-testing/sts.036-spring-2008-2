@@ -1,0 +1,42 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "American History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ],
+    [
+      "Engineering",
+      "Civil Engineering"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "85cd5dfe-209b-059f-6bc2-728f2358d7d3"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Technology and Nature in American History",
+  "course_description": "This course considers how the visual and material world of \"nature\" has been reshaped by industrial practices, ideologies, and institutions, particularly in nineteenth- and twentieth-century America. Topics include land-use patterns; the changing shape of cities and farms; the redesign of water systems; the construction of roads, dams, bridges, irrigation systems; the creation of national parks; ideas about wilderness; and the role of nature in an industrial world. From small farms to suburbia, Walden Pond to Yosemite, we will ask how technological and natural forces have interacted, and whether there is a place for nature in a technological world.\n\n##### Acknowledgement\n\nThis class is based on one originally designed and taught by Prof. Deborah Fitzgerald. Her Fall 2004 version can be viewed by following the link under Archived Courses on the right side of this page.\n",
+  "department_numbers": [
+    "STS"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "STS.036",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
